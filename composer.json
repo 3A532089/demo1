@@ -1,0 +1,11 @@
+{
+    "name": "likebestupid/demo1",
+    "description": "it's a shit.",
+    "authors": [
+        {
+            "name": "3A532089",
+            "email": "likebestupid@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -6,6 +6,12 @@
             "name": "3A532089",
             "email": "likebestupid@gmail.com"
         }
+    
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Demo\\":"./src/Demo"
+        }
+    }
 }
